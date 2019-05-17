@@ -2,11 +2,11 @@
 
 ## 編集するSCSSファイル
 
-* /scss/bootstrap.devreljp.scss　を編集、css/bootstrap.devreljp.cssをhtmlで読み込み。
+* /scss/bootstrap.devreljp.scss　を編集、css/bootstrap.custom.cssをhtmlで読み込み。
 
 ## bootstrapの基本設定を触りたい場合
 
-* /scss/bootstrap.devreljp.scss　の、@importより前に変更情報を記述する。
+* /scss/bootstrap.custom.scss　の、@importより前に変更情報を記述する。
 * 個別のスタイルもすべてここに記載。
 
 ## 注意事項
